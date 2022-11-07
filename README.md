@@ -1,4 +1,4 @@
-# estudo-go-interface-struct
+# Estudo Golang
 
 ## Mais um pouco de estudos com linguagem Go
 
